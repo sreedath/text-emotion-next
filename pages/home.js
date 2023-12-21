@@ -36,16 +36,17 @@ export default function Home() {
                 >
                   <p>
                     Hello there! Have you ever wondered how computers can
-                    understand our feelings, just by reading what we write? It's
-                    like magic, but it's actually a cool thing called "
-                    <b>Emotion Recognition using Text</b>"!
+                    understand our feelings, just by reading what we write?
+                    It&apos;s like magic, but it&apos;s actually a cool thing
+                    called &quot;
+                    <b>Emotion Recognition using Text</b>&quot;!
                   </p>
                   <p>
-                    Imagine you're texting your friend about your day. You might
-                    say, "I had so much fun at the park!" or "I felt a bit sad
-                    because it rained during our picnic." Well, computers can
-                    read these messages and figure out if you're happy, sad, or
-                    maybe even excited!
+                    Imagine you&apos;re texting your friend about your day. You
+                    might say, &quot;I had so much fun at the park!&quot; or
+                    &quot;I felt a bit sad because it rained during our
+                    picnic.&quot; Well, computers can read these messages and
+                    figure out if you&apos;re happy, sad, or maybe even excited!
                   </p>
                 </div>
                 <div className="col-lg-1"> </div>
